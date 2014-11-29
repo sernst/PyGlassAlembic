@@ -57,3 +57,5 @@ docs/_build/
 target/
 
 resources/widget/*/*.py
+
+/.idea
