@@ -59,3 +59,4 @@ target/
 resources/widget/*/*.py
 
 /.idea
+/.idea/*
